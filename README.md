@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Ng2Starter
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
@@ -30,7 +31,8 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
 =======
-# ng2-starter
+# ng2-opener
 Angular 2 starter with routing and http service
->>>>>>> 09e606cda5c2ca6bac8ce7e565a384c1f285e1c5
+>>>>>>> a0f4411c95a319805ce06586686b97ae77f7291b
